@@ -1,0 +1,98 @@
+commit e98364cc012bbd0ca38516cc7900a5594b5d23ff
+Author: Leon Breslauer <leonbreslauer.tuc@gmail.com>
+Date:   Fri Dec 8 10:28:19 2023 -0300
+
+    Agregando dos párrafos
+
+commit 719d270bc648ac2a64a8afc680a167acb641020c
+Merge: 0b9750d 9e73a33
+Author: Leon Breslauer <leonbreslauer.tuc@gmail.com>
+Date:   Fri Dec 8 10:23:03 2023 -0300
+
+    Resolviendo conflicto en estaciones del año con fecha de inicio
+
+commit 0b9750d35707fc125e8a4325b556afb0c643f140
+Author: Leon Breslauer <leonbreslauer.tuc@gmail.com>
+Date:   Fri Dec 8 10:05:53 2023 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 9e73a33316738e74cc0529eab311c2af6af84c88
+Author: Leon Breslauer <leonbreslauer.tuc@gmail.com>
+Date:   Fri Dec 8 10:05:53 2023 -0300
+
+    Agregando estaciones del año
+
+commit d184a02a426e79011b40a33bc2d4b68e4a13c806
+Merge: 978f54e 70ff1dc
+Author: Leon Breslauer <leonbreslauer.tuc@gmail.com>
+Date:   Fri Dec 8 09:54:17 2023 -0300
+
+    Resolviendo conflicto merge main html en el documento index.html
+
+commit 70ff1dc4603d6f845dbd2a0b42b7e973348e428d
+Author: Leon Breslauer <leonbreslauer.tuc@gmail.com>
+Date:   Fri Dec 8 09:47:49 2023 -0300
+
+    Agregando index.js al html
+
+commit 978f54eaec71cf03ff29ba48df72e15bdbbf0b31
+Author: Leon Breslauer <leonbreslauer.tuc@gmail.com>
+Date:   Fri Dec 8 09:45:49 2023 -0300
+
+    Agregando un poco de contenido a index.html
+
+commit a377e2863e135460bf9d8dc5ee594dc4562017dd
+Merge: 1c5e93b a5a8d03
+Author: Leon Breslauer <leonbreslauer.tuc@gmail.com>
+Date:   Fri Dec 8 09:33:11 2023 -0300
+
+    Merge branch 'js'
+
+commit a5a8d030faf5420e8b23650ab9d9193adf47254f
+Author: Leon Breslauer <leonbreslauer.tuc@gmail.com>
+Date:   Thu Dec 7 18:00:38 2023 -0300
+
+    Creando Archivo index.js
+
+commit 1c5e93b9a3f1014fabd80e5b250863b456d64600
+Author: Leon Breslauer <leonbreslauer.tuc@gmail.com>
+Date:   Thu Dec 7 17:42:10 2023 -0300
+
+    Creando Archivo styles.css
+
+commit e71c9ea36a88d563da59dcc85b110d781bfb193d
+Author: Leon Breslauer <leonbreslauer.tuc@gmail.com>
+Date:   Thu Dec 7 17:37:00 2023 -0300
+
+    Creando Archivo index.html
+
+commit e8be2383cafc7764c68aea37bdf888af54f4ad98
+Author: Leon Breslauer <leonbreslauer.tuc@gmail.com>
+Date:   Thu Dec 7 17:17:21 2023 -0300
+
+    Ignorando archivos .exe
+
+commit b80d2295d1b2d9cb4cf3db04e4a4612fa4ca9483
+Author: Bresleon <125083687+Bresleon@users.noreply.github.com>
+Date:   Thu Dec 7 16:40:11 2023 -0300
+
+    Creando licencia de repositorio
+
+commit 5dd4675f791c2ee0ab80ec32d2640f37c50cb1f2
+Author: Leon Breslauer <leonbreslauer.tuc@gmail.com>
+Date:   Thu Dec 7 16:27:33 2023 -0300
+
+    Agregando mas contenido al README
+
+commit 67fef781901a43c01a8edaa3fe2cb42ea914a860
+Author: Leon Breslauer <leonbreslauer.tuc@gmail.com>
+Date:   Thu Dec 7 16:11:34 2023 -0300
+
+    Agregando contenido inicial al README
+
+commit 239244a4bc394522c7decfb257dcb3e5fc2c3ae9
+Author: Leon Breslauer <leonbreslauer.tuc@gmail.com>
+Date:   Thu Dec 7 16:07:41 2023 -0300
+
+    Primer commit
